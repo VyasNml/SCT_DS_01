@@ -45,12 +45,16 @@ A simplified **pie chart** showcasing the combined population share of India and
 
 ## 📁 Directory Structure
 SC_DS_1/
-│
-├── data/ # Raw dataset and metadata
-├── script/ # Python scripts for cleaning & visualization
-├── assets/ # Source reference or supporting files
-├── output/ # Exported plots/images (not tracked on GitHub)
-└── README.md # Project overview
+
+  ├── data/ # Raw dataset and metadata
+
+  ├── script/ # Python scripts for cleaning & visualization
+
+  ├── assets/ # Source reference or supporting files
+
+  ├── output/ # Exported plots/images (not tracked on GitHub)
+
+  └── README.md # Project overview
 
 ---
 
